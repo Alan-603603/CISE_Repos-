@@ -1,0 +1,2 @@
+>git checkout -b Development This creates a new branch and moves you to the branch
+>git branch -a  to check what branches you have in your local repo type – green is the current one
